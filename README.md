@@ -12,9 +12,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prasanth210&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="380" height="140">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanth210&theme=dark&hide_border=true&ring=87CEEB&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=90EE90" width="380" height="140">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="380" height="140">
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=Prasanth210&icon=0&color=0)](https://visitcount.itsvg.in)
 
