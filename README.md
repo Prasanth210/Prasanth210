@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prasanth210&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
