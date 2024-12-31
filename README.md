@@ -19,10 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanth210&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="380" height="140">
 </div>
 
-<div align="center">
-   <img src="https://c.tenor.com/1cbqE6SwTjsAAAAC/working-from-home-computer.gif" width="400" alt="Man working on a PC">
-
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=Prasanth210&icon=0&color=0)](https://visitcount.itsvg.in)
 
